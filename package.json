@@ -1,0 +1,15 @@
+{
+  "name": "sengrid-exercise",
+  "version": "1.0.0",
+  "description": "A sendgrid-exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G. van Til",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "sendgrid": "^3.0.5"
+  }
+}
